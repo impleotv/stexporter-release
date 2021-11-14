@@ -21,8 +21,8 @@ jobs:
         uses: dsaltares/fetch-gh-release-asset@master
         with:
           #version: tags/${{ env.RELEASE }}          
-          file: SetupKlvStreamInjector.zip
-          target: SetupKlvStreamInjector.zip
+          file: SetupStExporter.zip
+          target: SetupStExporter.zip
           # token: ${{ secrets.DEPLOY_TOKEN }}
 
       - run: echo "🖥️ The version is ready to be uploaded."
@@ -30,14 +30,14 @@ jobs:
         run: |
           tree ${{ github.workspace }}
 
-      - name: 📂 Upload SetupKlvStreamInjector to ImpleoTV FTP
+      - name: 📂 Upload SetupStExporter to ImpleoTV FTP
         uses: SamKirkland/FTP-Deploy-Action@4.1.0
         with:
           server: ftp.impleotv.com
           username: sw@impleotv.com
           password: ${{ secrets.FTP_IMPLEO_SW }}
           local-dir: ./
-          server-dir: klvstreaminjector/
+          server-dir: stexporter/
 
       - name: Setup NodeJs 14.x
         uses: actions/setup-node@v1
