@@ -21,11 +21,12 @@ Unzip the **SetupStExporter.zip** file and run the **SetupStExporter.exe**
 
 | Software | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **STANAG StExporter** |  v1.8.11 | [SetupStExporter.zip](https://github.com/impleotv/stexporter-release/releases/latest/download/SetupStExporter.zip) | 
+| **STANAG StExporter** |  v1.9.2 | [SetupStExporter.zip](https://github.com/impleotv/stexporter-release/releases/latest/download/SetupStExporter.zip) | 
 
-*Released on Sat, 18 Dec, 20:02 GMT+2*
+*Released on Tue, 9 Aug, 13:40 GMT+3*
 
 ## License
+
 No license is needed for SDK evaluation - it will work in demo mode (with some restrictions).
 
 **StExporter** is a node locked software. In order to get the license (after purchasing), please install it and fill an [online form](https://docs.google.com/forms/d/e/1FAIpQLSd_XW6bDsFce1G1cpds4gMQNlwNax0CvkWzcMbscxZ5rLaIbA/viewform), providing the ***Node Info*** string (IMPORTANT!!!) for the target machine.  
