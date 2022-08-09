@@ -23,7 +23,7 @@ Unzip the **SetupStExporter.zip** file and run the **SetupStExporter.exe**
 |:---------|:-------------------:|:------------------------------------------------------------------------|
 | **STANAG StExporter** |  v1.9.2 | [SetupStExporter.zip](https://github.com/impleotv/stexporter-release/releases/latest/download/SetupStExporter.zip) | 
 
-*Released on Tue, 9 Aug, 13:40 GMT+3*
+*Released on Tue, 9 Aug, 13:46 GMT+3*
 
 ## License
 

@@ -1,6 +1,14 @@
 Change Log
 ==========
 
+### Ver. 1.9.2 (09/08/22)
+- Update low level
+- Add more tags
+
+### Ver. 1.9.1 (29/06/22)
+- Update low level
+- New Node info support
+
 ### Ver. 1.8.11 (19/12/21)
 - Update low level
 
