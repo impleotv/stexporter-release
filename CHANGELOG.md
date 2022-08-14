@@ -1,9 +1,6 @@
 Change Log
 ==========
 
-### Ver. 1.9.3 (14/08/22)
-- Update MisbCore
-
 ### Ver. 1.9.2 (09/08/22)
 - Update low level
 - Add more tags
