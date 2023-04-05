@@ -1,6 +1,9 @@
 Change Log
 ==========
 
+### Ver. 1.9.4 (05/04/23)
+- Update StCore low level
+
 ### Ver. 1.9.3 (14/08/22)
 - Update MisbCore
 
