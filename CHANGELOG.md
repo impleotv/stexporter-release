@@ -1,5 +1,7 @@
 Change Log
 ==========
+### Ver. 1.10.0 (23/05/23)
+- Low level update. FFmpeg version change
 
 ### Ver. 1.9.4 (05/04/23)
 - Update StCore low level
