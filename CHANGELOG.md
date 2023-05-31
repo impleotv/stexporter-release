@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 1.10.2 (31/05/23)
+- Close target file.
+- Fix status string on the second run 
+
 ### Ver. 1.10.1 (29/05/23)
 - Make cursor visible on exit.
 
