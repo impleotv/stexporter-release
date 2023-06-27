@@ -1,5 +1,7 @@
 Change Log
 ==========
+### Ver. 1.10.3 (27/06/23)
+- Low level update. Decoder memory leak fix
 
 ### Ver. 1.10.2 (31/05/23)
 - Close target file.
