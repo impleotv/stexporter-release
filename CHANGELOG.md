@@ -1,5 +1,11 @@
 Change Log
 ==========
+
+### Ver. 1.10.4 (23/08/23)
+- Low level update. 
+- Support the sps information provided in an rtp packet with a format STAP-A 
+- Fix the SequenceHeaderInsertionOnKeyFrames property did not reach its destination in the DVR mode
+
 ### Ver. 1.10.3 (27/06/23)
 - Low level update. Decoder memory leak fix
 
