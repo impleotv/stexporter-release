@@ -1,5 +1,17 @@
 Change Log
 ==========
+### Ver. 1.11.5 (24/03/24)
+- Update MisbCore
+	- Remove length from VMTI Location (tag 17)
+	- Remove length from VMTI Velocity and Acceleration DLP 
+- Generic Flag Data (tag47) Versions 13 through 16 of ST 0601 unintentionally inverted the column definitions; 
+- Add an ini patch to disable footer search
+- Add option for async callback of sync frames
+- Modify StCore interface
+- Add new property in IStCoreWr - SequenceHeaderInsertionIntervalMsec
+- Added new property in IStCoreWr - SequenceHeaderInsertionIntervalMsec
+- Lver modification
+
 ### Ver. 1.10.10 (21/12/23)
 - Update low level
 
