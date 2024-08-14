@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+### Ver. 1.12.1 (14/08/24)
+- low level modifications
+- MisbCore VMTI modifications
+	- Add MISB903.6 support 
+
 ### Ver. 1.12.0 (26/03/24)
 - Modify NodeInfo format
 Low level:
