@@ -10,7 +10,7 @@
 More [info](https://impleotv.com/products/applications/stexporter/).
 
 ## System Requirements
-OS: Windows 10 64 bit.
+OS: Windows 10/11 64 bit.
 
 ## Installation
 
@@ -21,9 +21,9 @@ Unzip the **SetupStExporter.zip** file and run the **SetupStExporter.exe**
 
 | Software | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **STANAG StExporter** |  v1.12.1 | [SetupStExporter.zip](https://github.com/impleotv/stexporter-release/releases/latest/download/SetupStExporter.zip) | 
+| **STANAG StExporter** |  v1.3.0 | [SetupStExporter.zip](https://github.com/impleotv/stexporter-release/releases/latest/download/SetupStExporter.zip) | 
 
-*Released on Wed, 14 Aug, 10:48 GMT+3*
+*Released on Sun, 7 Sept 2025, 13:29 GMT+3*
 
 ## License
 
@@ -38,7 +38,8 @@ C:\Program Files\ImpleoTV\StExporter\Bin\x64\StExporterProc.exe
 
 ![NodeInfo string](images/license.png)
 
-Please copy-paste *Node Info*, don't send an image...
+Copy and paste the Node Info string into the online form, or email it to support@impleotv.com.
+If your computer is offline or you're unable to copy the Node Info text, take a photo of the window with the QR code clearly visible and send it to us instead.
 
 You'll get back a **license** file and a **key**.
 
