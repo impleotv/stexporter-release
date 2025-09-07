@@ -1,6 +1,21 @@
 Change Log
 ==========
 
+### Ver. 1.3.0 (31/08/25)
+- Add QR code
+ Low level Ver. 1.7.22 (31/8/25)
+- Add support for MPEG TS Demux with AV1
+
+### Ver. 1.2.1 (30/01/25)
+- low level
+ - Adding support for AV1 in RTP input and in decoding
+ - AV1 stabilization fixes
+
+### Ver. 1.2.0 (12/01/25)
+- low level
+ - Upgrading ffmpeg to 5.1.2
+ - Use Filters v1.7
+
 ### Ver. 1.12.1 (14/08/24)
 - low level modifications
 - MisbCore VMTI modifications
