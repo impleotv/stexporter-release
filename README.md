@@ -14,8 +14,8 @@ OS: Windows 10/11 64 bit.
 
 ## Installation
 
-**StExporter** can be downloaded as a **zip** file that contains installer.  
-Unzip the **SetupStExporter.zip** file and run the **SetupStExporter.exe**  
+**StExporter** can be downloaded as a ZIP file containing the installer.
+Unzip the SetupStExporter.zip file and run SetupStExporter.exe.
 
 ## Download link
 
@@ -23,7 +23,7 @@ Unzip the **SetupStExporter.zip** file and run the **SetupStExporter.exe**
 |:---------|:-------------------:|:------------------------------------------------------------------------|
 | **STANAG StExporter** |  v1.3.0 | [SetupStExporter.zip](https://github.com/impleotv/stexporter-release/releases/latest/download/SetupStExporter.zip) | 
 
-*Released on Sun, 7 Sept 2025, 13:29 GMT+3*
+*Released on Sun, 7 Sept 2025, 13:36 GMT+3*
 
 ## License
 
